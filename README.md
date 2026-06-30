@@ -9,8 +9,6 @@ everything from "is there a live match right now" to "video is live on
 YouTube" is handled by a chain of 14 orchestrated nodes with fallback
 behavior at the points most likely to fail.
 
-🔗 **Live channel:** youtube.com/@<your-channel-handle> *(update with your handle)*
-
 ---
 
 ## Why this project exists
